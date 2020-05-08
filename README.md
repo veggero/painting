@@ -1,2 +1,2 @@
-# picture
+# Painting
 My KDE Plasma theme

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Painting
+Comment=A theme that takes the dominant color from your background as a UI element
+
+X-KDE-PluginInfo-Author=Niccolò Venerandi
+X-KDE-PluginInfo-Email=niccolo@venerandi.com
+X-KDE-PluginInfo-Name=Painting
+X-KDE-PluginInfo-Version=1.0.0
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=true
+contrast=0.2
+intensity=1.45
+saturation=12
